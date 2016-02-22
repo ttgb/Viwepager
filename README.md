@@ -30,3 +30,5 @@ YGADView *adView = [[YGADView alloc]initWithFrame:CGRectMake(40, 40, 260, 260)];
 
 
 
+
+
