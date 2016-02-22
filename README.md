@@ -23,11 +23,3 @@ UIImage *currentImage = [UIImage imageNamed:@"compose_keyboard_dot_selected"];
  <br>adView.currentPageImage = currentImage;</br> 
  UIImage *pageImage = [UIImage imageNamed:@"compose_keyboard_dot_normal"];
  <br>adView.pageImage = pageImage;</br> 
-
-
-
-
-
-
-
-
